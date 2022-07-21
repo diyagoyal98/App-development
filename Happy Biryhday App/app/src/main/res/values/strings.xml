@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Happy Birthday APP</string>
+    <string name="textview">TextView</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="create_birthday_card">Create Birthday Card</string>
+    <string name="input_hint_text">diya</string>
+    <string name="greet_name_message">Greet_name_message</string>
+    <string name="Happy_Birthday">Happpy Birthday</string>
+</resources>
