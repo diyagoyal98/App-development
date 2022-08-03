@@ -29,7 +29,7 @@ This help us to understand the concept of recyclerview and custom adapater.
 
 <img src="https://user-images.githubusercontent.com/87846440/182641157-05b719f1-8b96-4928-9362-d37b42a1f0b6.png" height="400">      <img src="https://user-images.githubusercontent.com/87846440/182638994-af4d8248-4651-4ade-b0eb-823f6dfb362f.png" height="400">
 
+## Grid View 
 
-
-
+<img src="https://user-images.githubusercontent.com/87846440/182656713-dc7b6029-bd48-463e-ad9b-acff69df6553.png" height="400">      <img src="https://user-images.githubusercontent.com/87846440/182657250-c00bde73-83a8-439e-b7b9-319069e51b38.png" height="400">
 
