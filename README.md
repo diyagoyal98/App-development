@@ -24,7 +24,10 @@ This will calculate the tip according to user choice by selecting one of the giv
 This help us to understand the concept of recyclerview and custom adapater.
 
 ## Output
-<img src="https://user-images.githubusercontent.com/87846440/181296517-13e493a5-e7ff-4e7a-92bc-fdc5ecfe4e86.png" height="400">      <img src="https://user-images.githubusercontent.com/87846440/181296689-04e07784-84bf-4ce7-8564-99759becfb6f.png" height="400">
+<img src="https://user-images.githubusercontent.com/87846440/181296517-13e493a5-e7ff-4e7a-92bc-fdc5ecfe4e86.png" height="400">      <img src="https://user-images.githubusercontent.com/87846440/181296689-04e07784-84bf-4ce7-8564-99759becfb6f.png" height="400">   
+
+
+<img src="https://user-images.githubusercontent.com/87846440/182641157-05b719f1-8b96-4928-9362-d37b42a1f0b6.png" height="400">      <img src="https://user-images.githubusercontent.com/87846440/182638994-af4d8248-4651-4ade-b0eb-823f6dfb362f.png" height="400">
 
 
 
