@@ -33,3 +33,13 @@ This help us to understand the concept of recyclerview and custom adapater.
 
 <img src="https://user-images.githubusercontent.com/87846440/182656713-dc7b6029-bd48-463e-ad9b-acff69df6553.png" height="400">      <img src="https://user-images.githubusercontent.com/87846440/182657250-c00bde73-83a8-439e-b7b9-319069e51b38.png" height="400">
 
+
+## Dogglers App
+
+<img src="https://user-images.githubusercontent.com/87846440/182844059-cf286b4b-7abd-4c8e-9041-0c4db20493ab.png" height="400">      <img src="https://user-images.githubusercontent.com/87846440/182844357-90f6f6c3-c67d-4a12-8c59-bacbd64082d0.png" height="400">
+
+<img src="https://user-images.githubusercontent.com/87846440/182844629-1068c5b5-ddea-4f4f-b8ec-17fd7962e159.png" height="400">      <img src="https://user-images.githubusercontent.com/87846440/182844804-d7d0cb83-7f71-4c8b-8ce4-5e621208f2ee.png" height="400">
+
+
+
+
